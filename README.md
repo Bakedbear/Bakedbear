@@ -11,7 +11,7 @@ I am a software developer with a keen interest in android.
 - 💬 Ask me about Kotlin and technology
 
 ### 📫 How to reach me: 
-* :office: [Linkedin](https://external.ink?to=/www.linkedin.com/in/renniekimutai/)
+* :necktie: [Linkedin](https://external.ink?to=/www.linkedin.com/in/renniekimutai/)
 * :e-mail: [Email](mailto:renniekimutai1@gmail.io)
 * :pencil: [Blog](https://external.ink?to=/dev-rennie.hashnode.dev/)
 
