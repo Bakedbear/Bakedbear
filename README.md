@@ -15,5 +15,5 @@ I am a software developer with a keen interest in android.
 * :e-mail: [Email](mailto:renniekimutai1@gmail.io)
 * :pencil: [Blog](https://external.ink?to=/dev-rennie.hashnode.dev/)
 
-- ⚡ Fun fact: Brazil was named after a tree:wink:
+
 
