@@ -6,7 +6,7 @@
 
 I am a software developer with a keen interest in android.
 
-- 🔭 I’m currently working on a Restaurants app. An app that suggests popular restaurants based on user experiences.
+- 🔭 I’m working on a Restaurants Booking app. 
 - 🌱 I’m currently learning Jetpack compose for Android.
 - 💬 Ask me about Kotlin and technology
 
