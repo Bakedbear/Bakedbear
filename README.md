@@ -7,7 +7,7 @@
 I am a software developer with a keen interest in android.
 
 - 🔭 I’m working on a Flask Blogging Booking app. 
-- 🌱 I’m currently learning Python for wrb application development.
+- 🌱 I’m currently learning Python for web application development.
 - 💬 Ask me about Kotlin, Android and Python 
 
 ### 📫 How to reach me: 
