@@ -6,14 +6,14 @@
 
 I am a software developer with a keen interest in android.
 
-- 🔭 I’m working on a Restaurants Booking app. 
-- 🌱 I’m currently learning Jetpack compose for Android.
-- 💬 Ask me about Kotlin and technology
+- 🔭 I’m working on a Flask Blogging Booking app. 
+- 🌱 I’m currently learning Python for wrb application development.
+- 💬 Ask me about Kotlin, Android and Python 
 
 ### 📫 How to reach me: 
 * :necktie: [Linkedin](https://external.ink?to=/www.linkedin.com/in/renniekimutai/)
 * :e-mail: [Email](mailto:renniekimutai1@gmail.io)
-* :pencil: [Blog](https://external.ink?to=/dev-rennie.hashnode.dev/)
+
 
 
 
