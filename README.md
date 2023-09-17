@@ -6,7 +6,7 @@
 
 I am a software developer with a keen interest in android.
 
-- 🔭 I’m working on a Flask Blogging Booking app. 
+- 🔭 I’m working on a Flask Blogging app. 
 - 🌱 I’m currently learning Python for web application development.
 - 💬 Ask me about Kotlin, Android and Python 
 
