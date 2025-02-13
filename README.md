@@ -13,7 +13,7 @@ I am a software developer with a specialization in Full-Stack Development.
 ### 📫 How to reach me: 
 * :necktie: [Linkedin](https://external.ink?to=/www.linkedin.com/in/renniekimutai/)
 * :e-mail: [Email](mailto:renniekimutai1@gmail.io)
-* 📝: [Blog](https://dev-rennie.hashnode.dev/)
+
 
 
 
